@@ -2,6 +2,7 @@ package com.francoislagier
 
 /**
  * Created by francois on 7/18/15.
+ * https://projecteuler.net/problem=2
  */
 object Problem2 extends App {
 
